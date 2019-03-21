@@ -7,6 +7,6 @@ public class printNums {
 		
 		System.out.println("hello");
 		System.out.println("bob");
-		System.out.println("SPACEb");
+		System.out.println("SPACE");
 	}
 }
